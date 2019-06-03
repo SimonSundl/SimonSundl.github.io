@@ -6,8 +6,10 @@ h1 {
 h2 {
     text-align:center;
 }
+
 body {
     background-color:rgb(220, 248, 209)}
+
 img {
     width: 50%;
     height: 50%;
@@ -21,6 +23,10 @@ img {
     margin-right: auto;
     width: 20%;
     height: 20%
+}
+
+.center_link{
+    text-align: center;
 }
 
 .list {
