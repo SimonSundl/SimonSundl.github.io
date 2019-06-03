@@ -1,10 +1,41 @@
 h1 {
     color:green;
-    text-align:center
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold
 }
 
 h2 {
     text-align:center;
+    font-weight: bold
+}
+
+h3 {
+    text-align:center;
+    font-weight: bold
+}
+
+h4 {
+    text-align:center;
+    font-weight: bold
+}
+
+h5 {
+    text-align:center;
+    font-weight: bold
+}
+
+h6 {
+    text-align:center;
+    font-weight: bold
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+aside {
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 body {
